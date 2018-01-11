@@ -16,3 +16,4 @@
 # inputted data. Compared to the prior projects, this project focuses far more on 
 # strings and concatenating. Have some fun coming up with some wacky stories for this!
 
+print("hello world")
